@@ -1,7 +1,7 @@
 
 /* Header starts */
 
-@media (max-width:768px) {
+@media (max-width:1080px) {
     .burger {
         display: block;
     }
@@ -9,20 +9,39 @@
         display: none;
     }
     .logo {
-        font-size: 28px;
+        font-size: 30px;
     }
     .burger {
         max-width: 40px;
         width: 100%;
+        top: 12px;
     }
     
     
 }
-@media (max-width:1080px) {
-    .navbar ul li a {
+@media (max-width:480px) {
+    .logo {
         font-size: 25px;
     }
+    .burger {
+        max-width: 30px;
+        width: 100%;
+        height: 50px;
+        top: 17px;
+    }
 }
+
 
 
 /* Header ends */
+
+
+/* Section 1 starts */
+
+@media (max-width:1080px) {
+    .home h3, span {
+        font-size: 70px;
+    }
+}
+
+/* Section 1 ends */
