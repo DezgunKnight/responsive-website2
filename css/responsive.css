@@ -42,6 +42,9 @@
     .home h3, span {
         font-size: 70px;
     }
+    .sec1-container {
+        flex-direction: column;
+    }
 }
 
 /* Section 1 ends */
