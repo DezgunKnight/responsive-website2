@@ -1,7 +1,7 @@
 /* Header starts */
 
 body {
-    height: 1800px;
+    height: 2800px;
     background-color: #3D3E42;
 }
 header {
@@ -212,6 +212,7 @@ header {
     color: #fff;
     max-width: 60px;
     width: 100%;
+    
 }
 .fa-solid {
     color: #229954;
