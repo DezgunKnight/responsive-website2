@@ -98,7 +98,16 @@
     }
 }
 
-
+@media (max-width:480px) {
+    .sec2-container div {
+        max-width: 150px;
+        width: 100%;
+        height: 70px;
+    }
+    .sec2-container i {
+        font-size: 30px;
+    }
+}
 
 /* Section 2 ends */
 
